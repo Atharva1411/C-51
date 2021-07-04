@@ -1,0 +1,48 @@
+h1 {
+    color : #0055FB
+
+}
+ {
+    border : solid
+}
+h2 {
+  color :turquoise
+    
+}
+
+.header {
+background-color: #FDFAAA;
+display: flex;
+justify-content: space-between;
+}
+
+.menu {
+    color: rgb(240, 24, 24);
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.footer {
+        display: flex;
+        justify-content: flex-end;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+     background-color: #000000;
+}
